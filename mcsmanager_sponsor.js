@@ -2,9 +2,9 @@
 window.sponsorList = function () {
   return [
     {
-      name: "毅",
-      price: 3700,
-      message: "一直等待白嫖中",
+      name: "Miku",
+      price: 4700,
+      message: "成功白嫖 MCSM9",
     },
     {
       name: "LL Town Server",
@@ -85,11 +85,6 @@ window.sponsorList = function () {
       name: "匪人安安",
       price: 600,
       message: "",
-    },
-    {
-      name: "MCSM Yoo",
-      price: 100,
-      message: "等待白嫖^^",
     },
     {
       name: "恭喜",
@@ -268,7 +263,7 @@ window.sponsorList = function () {
     },
     {
       name: "牛局长NiuBoss",
-      price: 150,
+      price: 220,
       message: "星之源社长来赞助啦！",
     },
     {
@@ -734,7 +729,7 @@ window.sponsorList = function () {
     },
     {
       name: "奈绪",
-      price: 10,
+      price: 50,
       message: "在底层挣扎",
     },
     {
@@ -949,7 +944,7 @@ window.sponsorList = function () {
     },
     {
       name: "CreeperKong",
-      price: 10,
+      price: 30,
       message: "",
     },
     {
@@ -1389,8 +1384,8 @@ window.sponsorList = function () {
     },
     {
       name: "Yoo",
-      price: 100,
-      message: "等待白嫖",
+      price: 206,
+      message: "白嫖成功~",
     },
     {
       name: "UBWBServer",
@@ -1463,7 +1458,7 @@ window.sponsorList = function () {
       message: "",
     },
     {
-      name: "阿卓",
+      name: "王小条",
       price: 200,
       message: "",
     },
@@ -1494,6 +1489,31 @@ window.sponsorList = function () {
     },
     {
       name: "CDN",
+      price: 10,
+      message: "感谢付出，MCSManager越来越好",
+    },
+    {
+      name: "MSDNicrosoft",
+      price: 10,
+      message: "msdnicrosoft.cn",
+    },
+    {
+      name: "Jsir2022",
+      price: 10,
+      message: "从2019年起就开始用了，感谢MCSM",
+    },
+    {
+      name: "HuoHuas001",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "Evernet",
+      price: 20,
+      message: "",
+    },
+    {
+      name: "mcmc",
       price: 10,
       message: "",
     },
