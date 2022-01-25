@@ -23,7 +23,7 @@ window.sponsorList = function () {
     },
     {
       name: "Mo0oOo0oOo0o",
-      price: 500,
+      price: 600,
       message: "",
     },
     {
@@ -108,7 +108,7 @@ window.sponsorList = function () {
     },
     {
       name: "Shuazi233",
-      price: 88.88,
+      price: 160,
       message: "",
     },
     {
@@ -268,7 +268,7 @@ window.sponsorList = function () {
     },
     {
       name: "贰狐",
-      price: 37,
+      price: 67,
       message: "由衷感谢大佬的车轮",
     },
     {
@@ -458,7 +458,7 @@ window.sponsorList = function () {
     },
     {
       name: "XZH",
-      price: 15,
+      price: 20.22,
       message: "",
     },
     {
@@ -554,7 +554,7 @@ window.sponsorList = function () {
     },
     {
       name: "korostudio.cn",
-      price: 60,
+      price: 70,
       message: "korostudio.cn 科洛工作室",
     },
     {
@@ -728,9 +728,14 @@ window.sponsorList = function () {
       message: "blog.zeruns.tech",
     },
     {
+      name: "Yoo",
+      price: 206,
+      message: "在中上层针扎~",
+    },
+    {
       name: "奈绪",
-      price: 50,
-      message: "在底层挣扎",
+      price: 206,
+      message: "在中上层针扎~",
     },
     {
       name: "xrh0905",
@@ -874,8 +879,8 @@ window.sponsorList = function () {
     },
     {
       name: "InfinityMC服务器",
-      price: 50,
-      message: "www.lemlove.top",
+      price: 800,
+      message: "www.infinitymc.top",
     },
     {
       name: "火神80",
@@ -919,8 +924,8 @@ window.sponsorList = function () {
     },
     {
       name: "Pysio",
-      price: 120,
-      message: "www.pysio.online",
+      price: 650,
+      message: "MTS生电服欢迎您",
     },
     {
       name: "冰冰",
@@ -1088,8 +1093,8 @@ window.sponsorList = function () {
       message: "",
     },
     {
-      name: "GRThree",
-      price: 10,
+      name: "三三",
+      price: 30,
       message: "",
     },
     {
@@ -1382,11 +1387,7 @@ window.sponsorList = function () {
       price: 300,
       message: "",
     },
-    {
-      name: "Yoo",
-      price: 206,
-      message: "白嫖成功~",
-    },
+
     {
       name: "UBWBServer",
       price: 20,
@@ -1515,6 +1516,101 @@ window.sponsorList = function () {
     {
       name: "mcmc",
       price: 10,
+      message: "",
+    },
+    {
+      name: "LMK_小白吖",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "FishCraft",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "zijiren",
+      price: 120,
+      message: "感谢所有为爱付出的程序员！",
+    },
+    {
+      name: "Mirrorcloud",
+      price: 20,
+      message: "Mirrorcloud与你同在",
+    },
+    {
+      name: "嗨块云皮肤站",
+      price: 200,
+      message: "auth.hicraft.cloud",
+    },
+    {
+      name: "小卢QWQ",
+      price: 10,
+      message: "嗨块云皮肤站",
+    },
+    {
+      name: "WeddedMercury15",
+      price: 10,
+      message: "嗨块云皮肤站",
+    },
+    {
+      name: "舜宝宝",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "蛋糕",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "Mapleandtree",
+      price: 20,
+      message: "",
+    },
+    {
+      name: "i",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "HandsomeYDZ",
+      price: 10,
+      message: "=。=",
+    },
+    {
+      name: "爱发电用户_BNVm",
+      price: 20,
+      message: "太好用了",
+    },
+    {
+      name: "雪剑书生",
+      price: 10,
+      message: "将用mcsm作为主要管理系统",
+    },
+    {
+      name: "云水谣",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "栅格云-心雨",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "简易云",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "觅忆视觉_森稳XenWayne",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "四方",
+      price: 11,
       message: "",
     },
   ];

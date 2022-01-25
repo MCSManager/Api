@@ -8,8 +8,8 @@
 // 正常性在线数据
 function onlineMCSManagerNotice() {
   var content = {
-    "version": "9.0.0 公开测试版",
-    "version2": "1.0.0 公开测试版",
+    "version": "9.1.0 公开测试版",
+    "version2": "1.2.0 公开测试版",
     "notice": [
       {
         "title": "MCSManager 9.0 公开测试版将于2021年1月1日正式发布！",
@@ -22,10 +22,6 @@ function onlineMCSManagerNotice() {
       {
         "title": "关于如何反馈问题的通知",
         "info": "现在版本我们需要收集大量的意见反馈，请加QQ群287215485参与反馈讨论，或者发送邮件至 Suwings@outlook.com 写明问题内容。"
-      },
-      {
-        "title": "关于商业使用的通知",
-        "info": "相信已经有少许服务商使用 MCSManager 面板进行出租，但是旧版本在设计之初并未完全考虑到商业出租等需求，主要还是方便个人为主。新版本将尽可能提高商业活动的价值，但是测试版并不具备商业价值。"
       },
       {
         "title": "关于旧版本的维护计划",
