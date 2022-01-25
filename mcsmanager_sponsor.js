@@ -1530,7 +1530,7 @@ window.sponsorList = function () {
     },
     {
       name: "zijiren",
-      price: 120,
+      price: 125,
       message: "感谢所有为爱付出的程序员！",
     },
     {
