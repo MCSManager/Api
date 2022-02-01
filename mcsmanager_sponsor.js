@@ -8,7 +8,7 @@ window.sponsorList = function () {
     },
     {
       name: "LL Town Server",
-      price: 3390,
+      price: 4390,
       message: "LL小镇欢迎你",
     },
     {
@@ -28,7 +28,7 @@ window.sponsorList = function () {
     },
     {
       name: "独醉科技",
-      price: 800,
+      price: 1000,
       message: "独醉科技欢迎你",
     },
     {
@@ -40,6 +40,11 @@ window.sponsorList = function () {
       name: "白翼",
       price: 500,
       message: "",
+    },
+    {
+      name: "ASL",
+      price: 666,
+      message: "Aurora Studio League",
     },
     {
       name: "LiteServer Project",
@@ -734,7 +739,7 @@ window.sponsorList = function () {
     },
     {
       name: "奈绪",
-      price: 206,
+      price: 216,
       message: "在中上层针扎~",
     },
     {
@@ -879,7 +884,7 @@ window.sponsorList = function () {
     },
     {
       name: "InfinityMC服务器",
-      price: 800,
+      price: 1000,
       message: "www.infinitymc.top",
     },
     {
@@ -1530,7 +1535,7 @@ window.sponsorList = function () {
     },
     {
       name: "zijiren",
-      price: 125,
+      price: 120,
       message: "感谢所有为爱付出的程序员！",
     },
     {
@@ -1613,5 +1618,20 @@ window.sponsorList = function () {
       price: 11,
       message: "",
     },
+    {
+      name: "飘风",
+      price: 74,
+      message: "",
+    },
+    {
+      name: "四方",
+      price: 11,
+      message: "",
+    },
+    {
+      name: "东少",
+      price: 66.66,
+      message: "",
+    }
   ];
 };
