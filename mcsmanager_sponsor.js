@@ -438,7 +438,7 @@ window.sponsorList = function () {
     },
     {
       name: "夜秋呤",
-      price: 10.0,
+      price: 40.0,
       message: "",
     },
     {
@@ -554,7 +554,7 @@ window.sponsorList = function () {
     },
     {
       name: "MCSERVERX",
-      price: 20,
+      price: 30,
       message: "MCSERVERX管理组前来支持",
     },
     {
@@ -699,7 +699,7 @@ window.sponsorList = function () {
     },
     {
       name: "CN-MrZhu_Zhujun",
-      price: 81,
+      price: 89,
       message: "博客mrzzj.top",
     },
     {
@@ -714,8 +714,8 @@ window.sponsorList = function () {
     },
     {
       name: "OldGodShen",
-      price: 205,
-      message: "欢迎使用FRP: ogfrp.cn",
+      price: 240,
+      message: "欢迎使用 Frp：ogfrp.cn",
     },
     {
       name: "Ber_tant",
@@ -739,8 +739,8 @@ window.sponsorList = function () {
     },
     {
       name: "奈绪",
-      price: 216,
-      message: "在中上层针扎~",
+      price: 356,
+      message: "MCSM X 等待中~",
     },
     {
       name: "xrh0905",
@@ -1630,8 +1630,23 @@ window.sponsorList = function () {
     },
     {
       name: "东少",
-      price: 66.66,
+      price: 89.99,
       message: "",
-    }
+    },
+    {
+      name: "星空神域团队",
+      price: 50,
+      message: "接服务器维护，1486684528",
+    },
+    {
+      name: "ZeroDayUnion 零时差",
+      price: 100,
+      message: "www.zerodayunion.com",
+    },
+    {
+      name: "FusionHEX",
+      price: 88,
+      message: "十六进制创科盟",
+    },
   ];
 };
