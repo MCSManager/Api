@@ -24,7 +24,7 @@ window.sponsorList = function () {
     {
       name: "Mo0oOo0oOo0o",
       price: 600,
-      message: "",
+      message: "https://desu.life/",
     },
     {
       name: "独醉科技",
@@ -263,7 +263,7 @@ window.sponsorList = function () {
     },
     {
       name: "牛局长NiuBoss",
-      price: 220,
+      price: 270,
       message: "星之源社长来赞助啦！",
     },
     {
@@ -1611,6 +1611,41 @@ window.sponsorList = function () {
     {
       name: "四方",
       price: 11,
+      message: "",
+    },
+    {
+      name: "豹猫",
+      price: 50,
+      message: "",
+    },
+    {
+      name: "橘子_JOZA",
+      price: 50,
+      message: "",
+    },
+    {
+      name: "爱发电用户_fUkN",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "秋风问天",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "XieXiLin",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "欧阳淇淇",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "无常菌",
+      price: 10,
       message: "",
     },
   ];
