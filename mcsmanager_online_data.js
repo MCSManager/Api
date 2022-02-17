@@ -21,6 +21,7 @@ function onlineMCSManagerNotice() {
       },
     ],
     news: [
+<<<<<<< HEAD
       {
         title: "和衷共济，共同创造",
         info: "开源软件的源代码可能需要运行几年甚至上十年，其质量与稳定的重要性不言而喻，我们期望有人关注，鼓励，支持，或共同改进，让此软件更加美好。",
@@ -28,11 +29,15 @@ function onlineMCSManagerNotice() {
       },
       {
         title: "MCSManager 9.2 公开发行版已发布",
+=======
+	  {
+        title: "MCSManager 9.2 公开发行版已发布！",
+>>>>>>> a3bea86ad43fadd4586fe013b1578eab837b92a7
         info: "详情请加入QQ群 287215485 了解更多（免费）。",
         time: "2022年2月1日",
       },
       {
-        title: "MCSManager 9.0 公开测试版将于2021年1月1日正式发布！",
+        title: "MCSManager 9.0 公开测试版已于2022年1月1日正式发布！",
         info: "新版本采用 Typescript 作为后端语言且90%的功能全部重写或重构，测试版不会公布在 GitHub（目的是为了防止所有人都下载测试版使用），暂时采用压缩包下载的方式提供测试使用，后续会逐渐开源。欢迎有兴趣的朋友尝鲜。",
         time: "2022年1月1日",
       },

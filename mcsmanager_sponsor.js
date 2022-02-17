@@ -8,7 +8,7 @@ window.sponsorList = function () {
     },
     {
       name: "LL Town Server",
-      price: 3390,
+      price: 4390,
       message: "LL小镇欢迎你",
     },
     {
@@ -28,7 +28,7 @@ window.sponsorList = function () {
     },
     {
       name: "独醉科技",
-      price: 800,
+      price: 1000,
       message: "独醉科技欢迎你",
     },
     {
@@ -40,6 +40,11 @@ window.sponsorList = function () {
       name: "白翼",
       price: 500,
       message: "",
+    },
+    {
+      name: "ASL",
+      price: 666,
+      message: "Aurora Studio League",
     },
     {
       name: "LiteServer Project",
@@ -433,7 +438,7 @@ window.sponsorList = function () {
     },
     {
       name: "夜秋呤",
-      price: 10.0,
+      price: 40.0,
       message: "",
     },
     {
@@ -549,7 +554,7 @@ window.sponsorList = function () {
     },
     {
       name: "MCSERVERX",
-      price: 20,
+      price: 30,
       message: "MCSERVERX管理组前来支持",
     },
     {
@@ -694,7 +699,7 @@ window.sponsorList = function () {
     },
     {
       name: "CN-MrZhu_Zhujun",
-      price: 81,
+      price: 89,
       message: "博客mrzzj.top",
     },
     {
@@ -709,8 +714,8 @@ window.sponsorList = function () {
     },
     {
       name: "OldGodShen",
-      price: 205,
-      message: "欢迎使用FRP: ogfrp.cn",
+      price: 240,
+      message: "欢迎使用 Frp：ogfrp.cn",
     },
     {
       name: "Ber_tant",
@@ -734,8 +739,8 @@ window.sponsorList = function () {
     },
     {
       name: "奈绪",
-      price: 206,
-      message: "在中上层针扎~",
+      price: 356,
+      message: "MCSM X 等待中~",
     },
     {
       name: "xrh0905",
@@ -879,7 +884,7 @@ window.sponsorList = function () {
     },
     {
       name: "InfinityMC服务器",
-      price: 800,
+      price: 1000,
       message: "www.infinitymc.top",
     },
     {
@@ -1530,7 +1535,7 @@ window.sponsorList = function () {
     },
     {
       name: "zijiren",
-      price: 125,
+      price: 120,
       message: "感谢所有为爱付出的程序员！",
     },
     {
@@ -1614,6 +1619,7 @@ window.sponsorList = function () {
       message: "",
     },
     {
+<<<<<<< HEAD
       name: "豹猫",
       price: 50,
       message: "",
@@ -1647,6 +1653,36 @@ window.sponsorList = function () {
       name: "无常菌",
       price: 10,
       message: "",
+=======
+      name: "飘风",
+      price: 74,
+      message: "",
+    },
+    {
+      name: "四方",
+      price: 11,
+      message: "",
+    },
+    {
+      name: "东少",
+      price: 89.99,
+      message: "",
+    },
+    {
+      name: "星空神域团队",
+      price: 50,
+      message: "接服务器维护，1486684528",
+    },
+    {
+      name: "ZeroDayUnion 零时差",
+      price: 100,
+      message: "www.zerodayunion.com",
+    },
+    {
+      name: "FusionHEX",
+      price: 88,
+      message: "十六进制创科盟",
+>>>>>>> a3bea86ad43fadd4586fe013b1578eab837b92a7
     },
   ];
 };
