@@ -1619,7 +1619,6 @@ window.sponsorList = function () {
       message: "",
     },
     {
-<<<<<<< HEAD
       name: "豹猫",
       price: 50,
       message: "",
@@ -1653,7 +1652,6 @@ window.sponsorList = function () {
       name: "无常菌",
       price: 10,
       message: "",
-=======
       name: "飘风",
       price: 74,
       message: "",
@@ -1682,7 +1680,6 @@ window.sponsorList = function () {
       name: "FusionHEX",
       price: 88,
       message: "十六进制创科盟",
->>>>>>> a3bea86ad43fadd4586fe013b1578eab837b92a7
     },
   ];
 };
