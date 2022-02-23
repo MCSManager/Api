@@ -17,6 +17,11 @@ window.sponsorList = function () {
       message: "好东西就得支持",
     },
     {
+      name: "mcsmoke",
+      price: 1400,
+      message: "嗨嗨，来喽",
+    },
+    {
       name: "miraclan.cc",
       price: 1000,
       message: "miraclan.cc",
