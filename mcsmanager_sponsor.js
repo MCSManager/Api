@@ -1686,5 +1686,10 @@ window.sponsorList = function () {
       price: 20,
       message: "",
     },
+    {
+      name: "枭嚣筱晓Xiao",
+      price: 20,
+      message: "",
+    },
   ];
 };
