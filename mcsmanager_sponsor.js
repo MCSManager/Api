@@ -564,7 +564,7 @@ window.sponsorList = function () {
     },
     {
       name: "korostudio.cn",
-      price: 70,
+      price: 100,
       message: "korostudio.cn 科洛工作室",
     },
     {
@@ -579,7 +579,7 @@ window.sponsorList = function () {
     },
     {
       name: "Frknopc",
-      price: 10,
+      price: 20,
       message: "",
     },
     {
@@ -924,11 +924,6 @@ window.sponsorList = function () {
     },
     {
       name: "SHAZIK",
-      price: 10,
-      message: "",
-    },
-    {
-      name: "科洛",
       price: 10,
       message: "",
     },
