@@ -1681,5 +1681,10 @@ window.sponsorList = function () {
       price: 88,
       message: "十六进制创科盟",
     },
+    {
+      name: "M3IOC",
+      price: 20,
+      message: "",
+    },
   ];
 };
