@@ -108,8 +108,8 @@ window.sponsorList = function () {
     },
     {
       name: "枫叶博客",
-      price: 100,
-      message: "枫叶博客欢迎你",
+      price: 700,
+      message: "www.tudoumc.com",
     },
     {
       name: "爱克狮",
