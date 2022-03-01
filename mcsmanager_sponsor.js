@@ -1691,5 +1691,10 @@ window.sponsorList = function () {
       price: 20,
       message: "",
     },
+    {
+      name: "会飞的木o",
+      price: 20,
+      message: "白嫖",
+    },
   ];
 };
