@@ -8,8 +8,8 @@
 // 正常性在线数据
 function onlineMCSManagerNotice() {
   var content = {
-    version: "9.2 发行版",
-    version2: "1.3 发行版",
+    version: "9.3 发行版",
+    version2: "1.4 发行版",
     notice: [
       {
         title: "关于如何反馈问题的通知",
@@ -21,6 +21,11 @@ function onlineMCSManagerNotice() {
       },
     ],
     news: [
+      {
+        title: "MCSManager 9.3 版本已发布",
+        info: "详情请参考：https://github.com/MCSManager/MCSManager/releases/tag/v9.3.2",
+        time: "2022年3月1日",
+      },
       {
         title: "和衷共济，共同创造",
         info: "开源软件的源代码可能需要运行几年甚至上十年，其质量与稳定的重要性不言而喻，我们期望有人关注，鼓励，支持，或共同改进，让此软件更加美好。",
