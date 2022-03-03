@@ -1,9 +1,5 @@
-/*
- * @Author: Copyright 2021 Suwings
- * @Date: 2021-08-30 10:09:26
- * @LastEditTime: 2021-08-30 10:15:51
- * @Description: MCSManager 面板网页数据源，此文件目的是您提供最新的官方信息
- */
+// MCSManager 面板网页数据源，此文件目的是您提供最新的官方信息。
+// 包括但不限于更新日志，漏洞发布，产品动态和维护消息等，不建议屏蔽此文件。
 
 // 正常性在线数据
 function onlineMCSManagerNotice() {
