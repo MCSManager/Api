@@ -1,4 +1,7 @@
-// MCSManager sponsors
+// MCSManager 面板全部赞助人员名单。
+// 为鼓励用爱发电与开源项目的可持续发展，赞助名单将显示在官方网站与面板的“设置”界面中。
+// 以便于展示所有为开源项目做贡献的人员。
+
 window.sponsorList = function () {
   return [
     {
