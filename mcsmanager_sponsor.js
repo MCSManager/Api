@@ -30,6 +30,11 @@ window.sponsorList = function () {
       message: "miraclan.cc",
     },
     {
+      name: "酷牛网络欢迎您",
+      price: 666,
+      message: "酷牛网络欢迎您",
+    },
+    {
       name: "Mo0oOo0oOo0o",
       price: 600,
       message: "https://desu.life/",
@@ -276,7 +281,7 @@ window.sponsorList = function () {
     },
     {
       name: "牛局长NiuBoss",
-      price: 270,
+      price: 320,
       message: "星之源社长来赞助啦！",
     },
     {
@@ -1698,6 +1703,16 @@ window.sponsorList = function () {
       name: "会飞的木o",
       price: 20,
       message: "白嫖",
+    },
+    {
+      name: "谷雨",
+      price: 200,
+      message: "www.mcgyf.net",
+    },
+    {
+      name: "谷雨",
+      price: 200,
+      message: "www.mcgyf.net",
     },
   ];
 };
