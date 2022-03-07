@@ -121,7 +121,7 @@ window.sponsorList = function () {
     },
     {
       name: "爱克狮",
-      price: 300,
+      price: 500,
       message: "白嫖使我快乐",
     },
     {
@@ -1713,6 +1713,16 @@ window.sponsorList = function () {
       name: "谷雨",
       price: 200,
       message: "www.mcgyf.net",
+    },
+    {
+      name: "爱发电用户_c8JB",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "华夏游龙",
+      price: 100,
+      message: "",
     },
   ];
 };
