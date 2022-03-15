@@ -126,7 +126,7 @@ window.sponsorList = function () {
     },
     {
       name: "Shuazi233",
-      price: 160,
+      price: 328,
       message: "",
     },
     {
@@ -531,7 +531,7 @@ window.sponsorList = function () {
     },
     {
       name: "IMC.RE",
-      price: 530,
+      price: 601,
       message: "Re.爱IMC | 重新爱上MC",
       link: "http://imc.re/",
     },
@@ -1723,6 +1723,27 @@ window.sponsorList = function () {
       name: "华夏游龙",
       price: 100,
       message: "",
+    },
+    {
+      name: "Rosmontis",
+      price: 25,
+      message: "",
+    },
+    {
+      name: "GRTFSMP",
+      price: 12,
+      message: "",
+    },
+
+    {
+      name: "yijiong",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "玉桥",
+      price: 10,
+      message: "b站菜鸟一周前来蹭个新版",
     },
   ];
 };
