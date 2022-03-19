@@ -6,7 +6,7 @@ window.sponsorList = function () {
   return [
     {
       name: "Miku",
-      price: 4700,
+      price: 5999.99,
       message: "成功白嫖 MCSM9",
     },
     {
@@ -752,7 +752,7 @@ window.sponsorList = function () {
     },
     {
       name: "奈绪",
-      price: 356,
+      price: 59.99,
       message: "MCSM X 等待中~",
     },
     {
