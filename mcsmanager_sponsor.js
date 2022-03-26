@@ -1745,5 +1745,15 @@ window.sponsorList = function () {
       price: 10,
       message: "b站菜鸟一周前来蹭个新版",
     },
+    {
+      name: "YFshadaow",
+      price: 50,
+      message: "用了快两年了，支持一波！",
+    },
+    {
+      name: "X极限战士X",
+      price: 10,
+      message: "QQ群:790316212",
+    },
   ];
 };
