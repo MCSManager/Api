@@ -1754,6 +1754,16 @@ window.sponsorList = function () {
       name: "X极限战士X",
       price: 10,
       message: "QQ群:790316212",
+    }, 
+    {
+      name: "音昊",
+      price: 10,
+      message: "",
     },
+    {
+      name: "杨小果子",
+      price: 10,
+      message: ""
+    }
   ];
 };
