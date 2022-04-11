@@ -125,7 +125,7 @@ window.sponsorList = function () {
       message: "白嫖使我快乐",
     },
     {
-      name: "Shuazi233",
+      name: "Shuazi",
       price: 328,
       message: "",
     },
