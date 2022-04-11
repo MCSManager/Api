@@ -4,8 +4,8 @@
 // 正常性在线数据
 function onlineMCSManagerNotice() {
   var content = {
-    version: "9.3 发行版",
-    version2: "1.4 发行版",
+    version: "9.4 发行版",
+    version2: "1.5 发行版",
     notice: [
       {
         title: "关于如何反馈问题的通知",
@@ -17,6 +17,11 @@ function onlineMCSManagerNotice() {
       },
     ],
     news: [
+      {
+        title: "MCSManager 9.4 版本已发布",
+        info: "详情请参考：https://github.com/MCSManager/MCSManager/releases/tag/v9.4.2",
+        time: "2022年4月11日",
+      },
       {
         title: "MCSManager 9.3 版本已发布",
         info: "详情请参考：https://github.com/MCSManager/MCSManager/releases/tag/v9.3.2",
