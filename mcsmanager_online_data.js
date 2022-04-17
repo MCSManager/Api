@@ -4,8 +4,8 @@
 // 正常性在线数据
 function onlineMCSManagerNotice() {
   var content = {
-    version: "9.3 发行版",
-    version2: "1.4 发行版",
+    version: "9.4 发行版",
+    version2: "1.5 发行版",
     notice: [
       {
         title: "关于如何反馈问题的通知",
@@ -14,6 +14,10 @@ function onlineMCSManagerNotice() {
       {
         title: "关于旧版本的维护计划",
         info: "在新版本发布后，8.6.x版本将进行最后一次更新，修复一些bug且不新增任何功能，便不再继续更新8.x版本。如果你有众多数据需要迁移到新版本暂时还无法做到，后续会考虑写一些批量转换脚本帮助你将数据迁移到新版本。",
+      },
+      {
+        title: "MCSManager 9 API 文档",
+        info: "https://docs.mcsmanager.com/",
       },
     ],
     news: [
