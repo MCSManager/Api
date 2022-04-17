@@ -1765,5 +1765,35 @@ window.sponsorList = function () {
       price: 10,
       message: "",
     },
+    {
+      name: "goldlingsanjin",
+      price: 100,
+      message: "",
+    },
+    {
+      name: "土拨鼠",
+      price: 20,
+      message: "",
+    },
+    {
+      name: "天启之云",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "MoeField",
+      price: 54,
+      message: "",
+    },
+    {
+      name: "特性之子qaz",
+      price: 50,
+      message: "",
+    },
+    {
+      name: "1807141396@qq.com",
+      price: 54,
+      message: "",
+    },
   ];
 };
