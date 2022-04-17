@@ -21,7 +21,7 @@ window.sponsorList = function () {
     },
     {
       name: "mcsmoke",
-      price: 1400,
+      price: 1900,
       message: "嗨嗨，来喽",
     },
     {
@@ -125,7 +125,7 @@ window.sponsorList = function () {
       message: "白嫖使我快乐",
     },
     {
-      name: "Shuazi233",
+      name: "Shuazi",
       price: 328,
       message: "",
     },
@@ -526,7 +526,7 @@ window.sponsorList = function () {
     },
     {
       name: "manta",
-      price: 100,
+      price: 150,
       message: "",
     },
     {
@@ -1508,7 +1508,7 @@ window.sponsorList = function () {
     },
     {
       name: "MSDNicrosoft",
-      price: 10,
+      price: 20,
       message: "msdnicrosoft.cn",
     },
     {
@@ -1578,7 +1578,7 @@ window.sponsorList = function () {
     },
     {
       name: "Mapleandtree",
-      price: 20,
+      price: 40,
       message: "",
     },
     {
@@ -1628,7 +1628,7 @@ window.sponsorList = function () {
     },
     {
       name: "豹猫",
-      price: 50,
+      price: 100,
       message: "",
     },
     {
@@ -1754,6 +1754,16 @@ window.sponsorList = function () {
       name: "X极限战士X",
       price: 10,
       message: "QQ群:790316212",
+    },
+    {
+      name: "音昊",
+      price: 10,
+      message: "",
+    },
+    {
+      name: "杨小果子",
+      price: 10,
+      message: "",
     },
   ];
 };

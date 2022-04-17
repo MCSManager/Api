@@ -22,6 +22,11 @@ function onlineMCSManagerNotice() {
     ],
     news: [
       {
+        title: "MCSManager 9.4 版本已发布",
+        info: "详情请参考：https://github.com/MCSManager/MCSManager/releases/tag/v9.4.2",
+        time: "2022年4月11日",
+      },
+      {
         title: "MCSManager 9.3 版本已发布",
         info: "详情请参考：https://github.com/MCSManager/MCSManager/releases/tag/v9.3.2",
         time: "2022年3月1日",
