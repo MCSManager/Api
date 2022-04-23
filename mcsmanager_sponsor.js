@@ -40,6 +40,11 @@ window.sponsorList = function () {
       message: "https://desu.life/",
     },
     {
+      name: "GyAdm 团队",
+      price: 600,
+      message: "GyAdm 欢迎您",
+    },
+    {
       name: "独醉科技",
       price: 1000,
       message: "独醉科技欢迎你",
