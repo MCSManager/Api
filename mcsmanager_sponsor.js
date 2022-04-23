@@ -1800,5 +1800,10 @@ window.sponsorList = function () {
       price: 54,
       message: "",
     },
+    {
+      name: "马牛逼",
+      price: 10,
+      message: "",
+    },
   ];
 };
