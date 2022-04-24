@@ -677,7 +677,7 @@ window.sponsorList = function () {
     },
     {
       name: "云逸网络工作室",
-      price: 11,
+      price: 20,
       message: "",
     },
     {
