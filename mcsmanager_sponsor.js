@@ -21,7 +21,7 @@ window.sponsorList = function () {
     },
     {
       name: "mcsmoke",
-      price: 1900,
+      price: 2600,
       message: "嗨嗨，来喽",
     },
     {
