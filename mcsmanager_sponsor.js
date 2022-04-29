@@ -290,9 +290,9 @@ window.sponsorList = function () {
       message: "星之源社长来赞助啦！",
     },
     {
-      name: "贰狐",
-      price: 67,
-      message: "由衷感谢大佬的车轮",
+      name: "大狐狐骰子",
+      price: 152,
+      message: "foxdice.cn",
     },
     {
       name: "凉生丶因源",
@@ -1583,7 +1583,7 @@ window.sponsorList = function () {
     },
     {
       name: "Mapleandtree",
-      price: 40,
+      price: 60,
       message: "",
     },
     {
