@@ -90,10 +90,6 @@ function onlineMCSManagerNotice() {
         title: "常见问题或常见解决方案",
         link: "https://docs.mcsmanager.com/#/qa/1",
       },
-      {
-        title: "你希望 MCSManager 9.0 新增哪些功能？",
-        link: "https://github.com/Suwings/MCSManager/discussions/455",
-      },
     ],
   };
   return JSON.parse(JSON.stringify(content));
