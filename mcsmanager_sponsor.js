@@ -1778,7 +1778,7 @@ window.sponsorList = function () {
     {
       name: "土拨鼠",
       price: 20,
-      message: "",
+      message: "tbstmc.xyz欢迎您游玩",
     },
     {
       name: "天启之云",
