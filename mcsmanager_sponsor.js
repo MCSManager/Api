@@ -1805,5 +1805,10 @@ window.sponsorList = function () {
       price: 10,
       message: "",
     },
+      {
+      name: "guaishushu",
+      price: 20,
+      message: "",
+    },
   ];
 };
