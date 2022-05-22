@@ -1809,6 +1809,14 @@ window.sponsorList = function () {
       name: "guaishushu",
       price: 20,
       message: "",
-    },
+    },{
+      name: "浮梦",
+      price: 10,
+      message: "",
+    },{
+      name: "1235789gzy1",
+      price: 10,
+      message: "",
+    }
   ];
 };
