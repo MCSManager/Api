@@ -11,7 +11,7 @@ window.sponsorList = function () {
     },
     {
       name: "LL Town Server",
-      price: 4390,
+      price: 5100,
       message: "LL小镇欢迎你",
     },
     {
